@@ -13,6 +13,8 @@
       
       <categories>
           
+          <category> 数据库 </category>
+          
           <category> 非关系型数据库 </category>
           
           <category> Redis </category>
