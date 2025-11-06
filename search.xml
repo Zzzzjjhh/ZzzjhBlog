@@ -17,6 +17,35 @@
     
     
     <entry>
+      <title>测试上传</title>
+      <link href="/ZzzjhBlog/2025/11/07/article-test/"/>
+      <url>/ZzzjhBlog/2025/11/07/article-test/</url>
+      
+        <content type="html"><![CDATA[<p>测试</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Java </category>
+          
+          <category> JavaSE </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Java </tag>
+            
+            <tag> 学习笔记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>责任链模式</title>
       <link href="/ZzzjhBlog/2025/08/01/%E8%B4%A3%E4%BB%BB%E9%93%BE%E6%A8%A1%E5%BC%8F/"/>
       <url>/ZzzjhBlog/2025/08/01/%E8%B4%A3%E4%BB%BB%E9%93%BE%E6%A8%A1%E5%BC%8F/</url>
